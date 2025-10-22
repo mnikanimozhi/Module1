@@ -14,6 +14,7 @@ print(a)
 print(b)
 
 ## Output
+![Uploading Screenshot 2025-10-22 183540.png…]()
 
 ## Result
 Thus,the program runs successfully.
